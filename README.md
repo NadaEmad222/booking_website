@@ -1,5 +1,5 @@
 # Simple Travelling Website:
-> * This project is based on the client/server architecture. *
+> *This project is based on the client/server architecture.*
 
 The website allows the users to lookup several travelling destinations. Users create an account, add places to their “want-to-go list” and search for travelling destinations.
 
